@@ -1,0 +1,20 @@
+                           How to Setup Backend 
+
+1.First open this folder name "WebApplicationAPI" on visual studio 2019 
+  while clicking on the .sln extension file.
+
+2.After that if your database i.e SQL Server doesnot run on the local server 
+  then you have gave the server name of the database in the AppSetings.json file.
+
+3.Now ,if all the required packages installed on the visual studio .....Go to tools 
+  and after selecting Nuget package Manager ...Click on package manager console.
+
+4.Run command "Update-database"
+
+5.Click on IIS express inorder to run the backend ....Now check....on What PORT this
+  backend  is running [IN My Case it was http://localhost:54519].....
+
+6.If the PORT is different then you to change the baseURL in backend in 
+  environment file
+         
+                      

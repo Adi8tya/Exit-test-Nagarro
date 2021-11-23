@@ -1,0 +1,19 @@
+                          How To setup FrontEnd            
+     
+1.First open this folder name "movie-booking" in VS Code.
+
+2.Then run command on terimnal ----npm install
+2.1                            ----ng serve
+
+3.Now you are ready to go to run the project 
+
+4.At First in order to book a movie you have to register for the admin 
+ and for that 
+
+5.While registering select UserName== "admin123"
+
+6.Now if you login with username==admin123 and password as you enter while 
+  registering 
+
+7.Now you will be able to add-movies and edit them and also has that access to delete them
+
